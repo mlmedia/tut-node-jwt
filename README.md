@@ -1,6 +1,8 @@
 #  Node Authentication API using Passport and JWT
-Tutorial for NodeJS API with authentication using Passport and JWT.  Tutorial origin unknown but repo can be found here: [https://github.com/GainorB/node-auth-jwt](https://github.com/GainorB/node-auth-jwt).
+Tutorial for NodeJS API with authentication using Passport and JWT. Tutorial origin unknown, but repo available below.
 
+## Code 
+- [https://github.com/GainorB/node-auth-jwt](https://github.com/GainorB/node-auth-jwt).
 
 ## NOTE
 This is an old project and just keeping it here for posterity purposes.
